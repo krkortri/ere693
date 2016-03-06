@@ -1,3 +1,8 @@
+# Kyle Kortright's Edits
+# GIS-Based Modeling
+# Lab 6
+# 3/8/16
+
 import os, sys, shutil, arcpy
 import traceback, time
 
